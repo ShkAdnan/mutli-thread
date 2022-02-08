@@ -1,0 +1,6 @@
+/NODE-js/node_modules
+/PHP/public/hot
+/public/storage
+/PHP/storage/*.key
+/PHP/vendor
+/PHP/.env
